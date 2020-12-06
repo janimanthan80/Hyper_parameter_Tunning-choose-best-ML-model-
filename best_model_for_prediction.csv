@@ -1,0 +1,7 @@
+,model,best_score,best_params
+0,svm,0.9800000000000001,"{'C': 1, 'kernel': 'rbf'}"
+1,ramdom_forest,0.96,{'n_estimators': 10}
+2,log_reg,0.9666666666666668,{'C': 5}
+3,naive_bayes_multi,0.9533333333333334,{}
+4,naive_bayes_gaussi,0.9533333333333334,{}
+5,decision_tree,0.9600000000000002,{'criterion': 'gini'}
